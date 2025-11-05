@@ -1,6 +1,6 @@
 ### Olá, sou o João Victor
 
-- 🌱 Atualmente estudando Análise e desenvolvimento de sistemas e Desenvolvimento Front End Completo
+- 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas e Desenvolvimento Front End Completo
 
 <div>
   <a href="https://github.com/jvictoraraujo2002-netizen">
